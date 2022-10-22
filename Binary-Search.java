@@ -98,11 +98,11 @@ public class Program
         
         if(index == -1){
             
-            System.out.print("not found");
+            System.out.println("not found");
        
         }else{
             
-            System.out.print(index);
+            System.out.println(index);
         }
    
     }
